@@ -1,0 +1,5 @@
+comp1,ag1,2018-08-06 10:00:00,resolved by aaa
+comp1,ag1,2018-08-25 12:00:00,resolved by bbb
+comp2,ag2,2018-08-04 09:30:00,resolved by ccc
+comp2,ag2,2018-08-10 12:00:00,resolved by ddd
+comp1,ag2,2018-08-08 03:00:00,resolved by eee
